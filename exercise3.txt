@@ -1,0 +1,44 @@
+Performance for Transpose Naive approach at n= 100 
+Testing naive transpose: 0.064 milliseconds
+Performance for Transpose Blocking approach at n= 100 
+Testing transpose with blocking: 0.069 milliseconds
+Performance for Transpose Naive approach at n= 1000 
+Testing naive transpose: 13.33 milliseconds
+Performance for Transpose Blocking approach at n= 1000 
+Testing transpose with blocking: 19.781 milliseconds
+Performance for Transpose Naive approach at n= 2000 
+Testing naive transpose: 194.272 milliseconds
+Performance for Transpose Blocking approach at n= 2000 
+Testing transpose with blocking: 193.114 milliseconds
+Performance for Transpose Naive approach at n= 5000 
+Testing naive transpose: 898.519 milliseconds
+Performance for Transpose Blocking approach at n= 5000 
+Testing transpose with blocking: 1194.58 milliseconds
+Performance for Transpose Naive approach at n= 10000 
+Testing naive transpose: 3599.83 milliseconds
+Performance for Transpose Blocking approach at n= 10000 
+Testing transpose with blocking: 5082.19 milliseconds
+
+
+Performance for Transpose Naive approach at blocksize= 50 
+Testing naive transpose: 82.824 milliseconds
+Performance for Transpose Blocking approach at blocksize= 50 
+Testing transpose with blocking: 10.798 milliseconds
+Performance for Transpose Naive approach at blocksize= 100 
+Testing naive transpose: 82.676 milliseconds
+Performance for Transpose Blocking approach at blocksize= 100 
+Testing transpose with blocking: 10.594 milliseconds
+Performance for Transpose Naive approach at blocksize= 500 
+Testing naive transpose: 7.359 milliseconds
+Performance for Transpose Blocking approach at blocksize= 500 
+Testing transpose with blocking: 8.68 milliseconds
+Performance for Transpose Naive approach at blocksize= 1000 
+Testing naive transpose: 6.747 milliseconds
+Performance for Transpose Blocking approach at blocksize= 1000 
+Testing transpose with blocking: 8.462 milliseconds
+Performance for Transpose Naive approach at blocksize= 5000 
+Testing naive transpose: 6.771 milliseconds
+Performance for Transpose Blocking approach at blocksize= 5000 
+Testing transpose with blocking: 5.9 milliseconds
+
+
